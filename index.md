@@ -1,3 +1,8 @@
+# Druhá hodina s doskou micro:bit
+1. [Prezentácia](https://slides.com/marekmansell/vnv-lesson-2/)
+2. [Online editor](https://makecode.microbit.org/?lang=sk_SK)
+3. [Dotazník po hodine](https://goo.gl/forms/bUAodTnpRVJW0GIi1)
+
 # Prvá hodina s doskou micro:bit
 
 1. [Dotazník pred hodinou](https://goo.gl/forms/aHYUVnX8xsBWDYI62)
