@@ -1,14 +1,23 @@
-# Tretia hodina s doskou micro:bit
+# FIIT workshop
+
+[Online editor](https://makecode.microbit.org/?lang=sk_SK)
+
+https://github.com/marekmansell/pxt-microbit-neopixel-sk
+
+
+
+
+### Tretia hodina s doskou micro:bit
 1. [Prezentácia](https://slides.com/marekmansell/vnv-lesson-3/)
 2. [Online editor](https://makecode.microbit.org/?lang=sk_SK)
 3. [Dotazník po 3. hodine](https://goo.gl/forms/OgjMgKWGMesswAxA3)
 
-# Druhá hodina s doskou micro:bit
+### Druhá hodina s doskou micro:bit
 1. [Prezentácia](https://slides.com/marekmansell/vnv-lesson-2/)
 2. [Online editor](https://makecode.microbit.org/?lang=sk_SK)
 3. [Dotazník po 2. hodine](https://goo.gl/forms/bUAodTnpRVJW0GIi1)
 
-# Prvá hodina s doskou micro:bit
+### Prvá hodina s doskou micro:bit
 
 1. [Dotazník pred hodinou](https://goo.gl/forms/aHYUVnX8xsBWDYI62)
 2. [Online editor](https://makecode.microbit.org/?lang=sk_SK)
